@@ -1,6 +1,6 @@
 ARG ALPINE_VER
 
-FROM jlsfernandez1:alpine:${ALPINE_VER}
+FROM jlsfernandez1/docker-alpine:${ALPINE_VER}
 
 ARG ALPINE_DEV
 
