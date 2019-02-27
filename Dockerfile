@@ -1,6 +1,6 @@
 ARG ALPINE_VER
 
-FROM alpine:${ALPINE_VER}
+FROM jlsfernandez1:alpine:${ALPINE_VER}
 
 ARG ALPINE_DEV
 
